@@ -45,7 +45,7 @@ print("Dropped variables:", dropped_vars)
 This library is suitable for data scientists, researchers, and practitioners working with regression problems who seek a streamlined approach to feature selection. The library intelligently adapts to the nature of the target variable, supporting both linear and logistic regression models, and allows for customization in the regression fitting process.
 
 ## Documentation & Examples
-For documentation and usage examples, visit the GitHub repository: https://github.com/knowusuboaky/backwards_regression-0.2.0
+For documentation and usage examples, visit the GitHub repository: https://github.com/knowusuboaky/backwards_regression-0.2.0\
 Author: Kwadwo Daddy Nyame Owusu - Boakye\
 Email: kwadwo.owusuboakye@outlook.com\
 License: MIT
